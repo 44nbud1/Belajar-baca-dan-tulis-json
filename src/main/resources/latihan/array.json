@@ -1,0 +1,10 @@
+{"phoneNumber":
+    [
+      {"number":"12334",
+        "type":"home"
+      },
+      {"number":"madagascar",
+        "type":"americano"
+      }
+    ]
+}
